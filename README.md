@@ -8,6 +8,8 @@ Dependencies
 ============
 
 http://espeak.sourceforge.net/
+
+
 https://github.com/kernc/logkeys
 
 
@@ -25,6 +27,7 @@ Check
 for help on options.
 
 Once oddspeak is running whatever is typed regardless of the window it will be spoken after return key is pressed.
+
 
 
 
