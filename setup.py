@@ -11,8 +11,9 @@ setup(name="oddspeak",
       author_email="ioliveira@id.uff.br",
       url='https://github.com/iogf/oddspeak',
       download_url='https://github.com/iogf/oddspeak/releases',
-      keywords=[],
+      keywords=['translate', 'speak', 'synthetizer'],
       classifiers=[])
+
 
 
 
